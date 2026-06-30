@@ -106,8 +106,9 @@ with tab_visualizacion:
 
         st_folium(
             mapa,
-            width=1200,
+            width=None,
             height=600,
+            use_container_width=True,
             key="mapa_principal"
         )
 
