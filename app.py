@@ -26,8 +26,7 @@ with tab_contexto:
     st.image("unraf_logo.png", width=300)
 
     st.markdown("""
-    ### Sobre el proyecto
-    Acá podemos escribir sobre  que se trata el proyecto y con lo que se van a encontrar
+    ### Esta aplicación analiza el ecosistema de empresas AgTech de Argentina con el objetivo de identificar, caracterizar y visualizar su distribución territorial.
     """)
     st.markdown("""
     **Becarias del proyecto**  
